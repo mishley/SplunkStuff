@@ -1,3 +1,5 @@
+*Note: This repo is archived and for reference only.*
+
 # SplunkStuff
 Random useful Splunk stuff I've written.
 ## splunk_unity.pm
